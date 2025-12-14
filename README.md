@@ -27,11 +27,16 @@ Focused on modern web development with the latest tools and frameworks
 
 ### Playground & Experiments
 
-- **[languageshop](https://github.com/gsroka/languageshop)**
+- **[languageshop](https://github.com/gsroka/languageshop)** →
   Full-stack language learning app • **React Router v7 + Vite + TypeScript** • shadcn/ui • Zod + React Hook Form • Zustand • Playwright E2E • PWA-ready • Vitest + MSW
 
-- **[magpie-chat-app](https://github.com/gsroka/magpie-chat-app)**  
+- **[magpie-chat-app](https://github.com/gsroka/magpie-chat-app)** →
   Real-time AI chat with streaming responses • **Next.js 15 App Router** • Vercel AI SDK + Anthropic • Tailwind + shadcn/ui • Sonner toasts • Dark mode
+
+### Latest Projects
+
+- **[onphone.pl](https://onphone.pl)** → A booking platform for **online English conversation lessons**
+- More soon...
 
 ### More about my career
 [LinkedIn → linkedin.com/in/grzegorzsroka](https://linkedin.com/in/grzegorzsroka)
