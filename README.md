@@ -36,7 +36,7 @@ Focused on modern web development with the latest tools and frameworks
 ### Latest Projects
 
 - **[onphone.pl](https://onphone.pl)** → A booking platform for online English conversation lessons.
-- **[sjok.pl](https://sjok.pl)** → Official website for Szkoła Językowa OK - a professional English language school.
+- **[sjok.pl](https://sjok.pl)** → Official website for SJOK - a professional English language school.
 - More soon...
 
 ### More about my career
