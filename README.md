@@ -35,6 +35,7 @@ Focused on modern web development with the latest tools and frameworks
 
 ### Latest Projects
 
+- **[mag-dev.vercel.app](https://mag-dev.vercel.app/about)** → A personal "Second Brain" and developer portfolio.
 - **[onphone.pl](https://onphone.pl)** → A booking platform for online English conversation lessons.
 - **[sjok.pl](https://sjok.pl)** → Official website for SJOK - a professional English language school.
 - More soon...
