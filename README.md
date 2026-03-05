@@ -1,8 +1,8 @@
 # Hey, I'm Grzegorz
 
-**Frontend Software Engineer** 
+**Frontend Software Engineer** 
 
-• React & Next.js • High-quality, consistent UIs • Core Web Vitals • Accessibility • High-scale systems  
+• React & Next.js • High-quality, consistent UIs • Core Web Vitals • Accessibility • High-scale systems  
 Focused on modern web development with the latest tools and frameworks
 
 ### Current Stack (2025 → 2026)
@@ -25,13 +25,19 @@ Focused on modern web development with the latest tools and frameworks
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-1D1D1D?style=for-the-badge&logo=posthog&logoColor=white)
 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
+
 ### Playground & Experiments
 
+- **[magdev-order-management](https://github.com/gsroka/magdev-order-management)** →
+  Order Management Dashboard SPA • **React 19 + React Router v7 + Vite** • TanStack Query & Table • Tailwind CSS v4 + shadcn/ui • Zod + React Hook Form • **MSW (Zero Backend)**
+
 - **[magdev-language-shop](https://github.com/gsroka/languageshop)** →
-  Full-stack language learning app • **React Router v7 + Vite + TypeScript** • shadcn/ui • Zod + React Hook Form • Zustand • Playwright E2E • PWA-ready • Vitest + MSW
+  Full-stack language learning app • **React Router v7 + Vite + TypeScript** • shadcn/ui • Zod + React Hook Form • Zustand • Playwright E2E • PWA-ready • Vitest + MSW
 
 - **[magdev-chat-app](https://github.com/gsroka/magpie-chat-app)** →
-  Real-time AI chat with streaming responses • **Next.js 15 App Router** • Vercel AI SDK + Anthropic • Tailwind + shadcn/ui • Sonner toasts • Dark mode
+  Real-time AI chat with streaming responses • **Next.js 15 App Router** • Vercel AI SDK + Anthropic • Tailwind + shadcn/ui • Sonner toasts • Dark mode
 
 ### Latest Projects
 
