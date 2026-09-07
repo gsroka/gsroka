@@ -3,7 +3,7 @@
 ### Senior Frontend & Fullstack Engineer • AI-Native Systems Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grzegorzsroka-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/grzegorzsroka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mag--dev.vercel.app-000000?style=flat-square&logo=vercel)](https://gsroka.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gsroka.vercel.app-000000?style=flat-square&logo=vercel)](https://gsroka.vercel.app/cv)
 [![Email](https://img.shields.io/badge/Email-gsroka%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gsroka@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Remote_B2B_%2F_Full--time-2ea44f?style=flat-square)]()
 
@@ -61,5 +61,5 @@ Testing & Resilience  :: Playwright • Vitest • MSW • Ephemeral CI Containe
 ### 📬 Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/grzegorzsroka](https://linkedin.com/in/grzegorzsroka)
-- 🌐 **Portfolio:** [gsroka.vercel.app](https://gsroka.vercel.app)
+- 🌐 **Portfolio:** [gsroka.vercel.app](https://gsroka.vercel.app/cv)
 - ✉️ **Direct:** [gsroka@gmail.com](mailto:gsroka@gmail.com)
