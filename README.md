@@ -1,50 +1,65 @@
-# Hey, I'm Grzegorz
+# Hey, I'm Grzegorz 👋
 
-**Frontend Software Engineer** 
+### Senior Frontend & Fullstack Engineer • AI-Native Systems Builder
 
-• React & Next.js • High-quality, consistent UIs • Core Web Vitals • Accessibility • High-scale systems  
-Focused on modern web development with the latest tools and frameworks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grzegorzsroka-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/grzegorzsroka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mag--dev.vercel.app-000000?style=flat-square&logo=vercel)](https://mag-dev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-gsroka%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gsroka@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Remote_B2B_%2F_Full--time-2ea44f?style=flat-square)]()
 
-### Current Stack (2025 → 2026)
+---
 
-![Next.js](https://img.shields.io/badge/Next.js%2015/16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596D1?style=for-the-badge&logo=trpc&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+> **10+ years of engineering experience** building high-scale, mission-critical web platforms.  
+> • Former Platform Owner handling **15B+ monthly impressions** & **900M+ users** globally with near-zero downtime.  
+> • **In 2026, I build exclusively AI-native.** My entire development lifecycle is orchestrated through multi-agent systems (**Claude Code**, **OpenAI Codex**, and **Google Antigravity**) — combining 10x shipping velocity with rigorous software architecture.
 
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-0A0A?style=for-the-badge&logo=drizzle&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+---
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D1D1D?style=for-the-badge&logo=posthog&logoColor=white)
+### 🤖 My 2026 Engine: Exclusively Agentic
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
+I don't use AI as a passive autocomplete. I architect and operate **autonomous multi-agent harnesses**:
 
-### Playground & Experiments
+- **The Core Triumvirate:** Developing 100% of my code alongside **Claude Code** (deep terminal & refactoring agent), **Google Antigravity** (autonomous agentic workflows), and **OpenAI Codex**.
+- **Model Context Protocol (MCP):** Bridging agents directly to live databases, telemetry, and custom local tools for deep contextual reasoning.
+- **Deterministic Quality Gates:** Hallucination-proof engineering. Every agent iteration passes through automated test runners (Playwright, Vitest), schema-drift checks, and linter loops (Biome) before human merge.
 
-- **[magdev-order-management](https://github.com/gsroka/magdev-order-management)** →
-  Order Management Dashboard SPA • **React 19 + React Router v7 + Vite** • TanStack Query & Table • Tailwind CSS v4 + shadcn/ui • Zod + React Hook Form • **MSW (Zero Backend)**
+---
 
-- **[magdev-language-shop](https://github.com/gsroka/languageshop)** →
-  Full-stack language learning app • **React Router v7 + Vite + TypeScript** • shadcn/ui • Zod + React Hook Form • Zustand • Playwright E2E • PWA-ready • Vitest + MSW
+### 🛠️ Core Tech Stack
 
-- **[magdev-chat-app](https://github.com/gsroka/magpie-chat-app)** →
-  Real-time AI chat with streaming responses • **Next.js 15 App Router** • Vercel AI SDK + Anthropic • Tailwind + shadcn/ui • Sonner toasts • Dark mode
+```text
+Frontend Craft        :: React 19 • Next.js 16 • React Router v7 • Vite • Tailwind CSS v4 • shadcn/ui
+Backend & Serverless  :: Cloudflare Workers (Hono) • PostgreSQL (Neon) • Drizzle ORM • tRPC • Zod
+AI & Media Automation :: Claude Code • Google Antigravity • Codex • MCP • Remotion • ElevenLabs
+Testing & Resilience  :: Playwright • Vitest • MSW • Ephemeral CI Containers • Automated Rollbacks
+```
 
-### Latest Projects
+---
 
-- **[mag-dev.vercel.app](https://mag-dev.vercel.app/about)** (in progress) → A personal "Second Brain" and developer portfolio.
-- **[onphone.pl](https://onphone.pl)** → A booking platform for online English conversation lessons.
-- **[sjok.pl](https://sjok.pl)** → Official website for SJOK - a professional English language school.
-- More soon...
+### 🚀 Production Platforms & Engineering
 
-### More about my career
-[LinkedIn → linkedin.com/in/grzegorzsroka](https://linkedin.com/in/grzegorzsroka)
+- **SJOK App** *(Private)* — Internal multi-target platform powering school operations.
+  - **Architecture:** Electron Desktop App • Vite Web App • Cloudflare Workers (Hono API) • Neon PostgreSQL • Drizzle ORM • pnpm monorepo.
+  - **Resilience:** CI/CD with ephemeral Postgres 18 service containers for live migration tests, schema-drift guards, TruffleHog audits, and automated production rollbacks.
+- **Programmatic Media Pipeline** *(Private)* — High-throughput voice & video generation engine.
+  - **Stack:** [Remotion](https://www.remotion.dev) (`@remotion/captions`) • AssemblyAI (word-level timestamps) • ElevenLabs (streaming multilingual TTS).
+- **Public & Client Websites:**
+  - **[sjok.pl](https://sjok.pl)** — Official website for SJOK English Language School.
+  - **[onphone.pl](https://onphone.pl)** — Online booking platform for language conversation sessions.
+  - **[mag-dev.vercel.app](https://mag-dev.vercel.app)** — Personal developer hub & second brain.
+
+---
+
+### 🧪 Open Source & Playgrounds
+
+- **[magdev-order-management](https://github.com/gsroka/magdev-order-management)** — High-performance Order Management SPA • **React 19 + React Router v7 + Vite** • TanStack Query & Table • Tailwind v4 + shadcn/ui • **MSW zero-backend mock layer**.
+- **[magdev-language-shop](https://github.com/gsroka/languageshop)** — Progressive web store app • **React Router v7 + Vite + TypeScript** • Zustand • Playwright E2E • Vitest + MSW.
+- **[magdev-chat-app](https://github.com/gsroka/magpie-chat-app)** — Real-time AI chat with streaming • **Next.js 16 App Router** • Vercel AI SDK + Anthropic • Sonner toasts.
+
+---
+
+### 📬 Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/grzegorzsroka](https://linkedin.com/in/grzegorzsroka)
+- 🌐 **Portfolio:** [mag-dev.vercel.app](https://mag-dev.vercel.app)
+- ✉️ **Direct:** [gsroka@gmail.com](mailto:gsroka@gmail.com)
