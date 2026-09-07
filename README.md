@@ -61,5 +61,5 @@ Testing & Resilience  :: Playwright • Vitest • MSW • Ephemeral CI Containe
 ### 📬 Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/grzegorzsroka](https://linkedin.com/in/grzegorzsroka)
-- 🌐 **Portfolio:** [mag-dev.vercel.app](https://mag-dev.vercel.app)
+- 🌐 **Portfolio:** [gsroka.vercel.app](https://gsroka.vercel.app)
 - ✉️ **Direct:** [gsroka@gmail.com](mailto:gsroka@gmail.com)
